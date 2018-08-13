@@ -1376,10 +1376,10 @@
 	}
 
 	function showExpander(position, callback) {
-		dynamics.css(expanderEl, { opacity: 1, left : position.x, top : position.y, backgroundColor : '#888888', scale : 0 });
+		dynamics.css(expanderEl, { opacity: 1, left : position.x, top : position.y, backgroundColor : '#45918e', scale : 0 });
 		dynamics.animate(expanderEl, { 
 			scale : 1.5, 
-			backgroundColor : '#606462' 
+			backgroundColor : '#45cb96' 
 		}, { 
 			duration : 500, 
 			type : dynamics.easeOut,

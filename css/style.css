@@ -23,8 +23,8 @@
 body {
 	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
 	overflow-x: hidden;
-	color: #fff;
-	background: #000000;
+	color: #474283;
+	background: #45cb96;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -37,7 +37,7 @@ a {
 
 a:hover,
 a:focus {
-	color: #000000;
+	color: #349770;
 }
 
 
@@ -273,7 +273,7 @@ html.js,
 }
 
 
-/* grid decoration 
+/* grid decoration */
 
 .grid__item--deco::before {
 	font-family: 'nexa_boldregular', sans-serif;
@@ -296,7 +296,7 @@ html.js,
 .grid__item--deco-3::before {
 	content: '2015';
 }
-*/
+
 
 /* grid link */
 
@@ -443,7 +443,7 @@ html.js,
 	pointer-events: none;
 	opacity: 0;
 	border-radius: 50%;
-	background: #202121;
+	background: #45918e;
 	-webkit-transform: scale(0.001);
 	transform: scale(0.001);
 }
@@ -737,7 +737,7 @@ html.js,
 	width: calc(90vmin + (0.2 * 80vmin));
 	height: 90vmin;
 	border-radius: 0.15em;
-	background: #8f9a96;
+	background: #45bd94;
 	-webkit-transform: translate3d(-50%, -50%, 0) translate3d(calc(0.06 * 80vmin), 0, 0);
 	transform: translate3d(-50%, -50%, 0) translate3d(calc(0.06 * 80vmin), 0, 0);
 	pointer-events: none;
@@ -989,7 +989,7 @@ we use margins because transforms will be applied dynamically */
 .effects__irs {
 	margin: 0.5em 0 0;
 	padding: 1em 0 0;
-	border-top: 1px solid #6d7975;
+	border-top: 1px solid #379676;
 }
 
 .effects__button {
@@ -1001,7 +1001,7 @@ we use margins because transforms will be applied dynamically */
 	height: 4em;
 	margin: 0.5em 0;
 	padding: 1em;
-	color: #000000;
+	color: #37a07c;
 	border: 0;
 	background: none;
 	-webkit-box-flex: 0;
