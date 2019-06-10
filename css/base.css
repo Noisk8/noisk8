@@ -13,7 +13,7 @@ body {
 	--color-link-hover: #000;
 	--color-logo-bg: #a09f92;
 	font-family: 'Inconsolata', monospace;
-	height: 100vh;
+	height: 200vh;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	-webkit-font-smoothing: antialiased;
@@ -591,3 +591,19 @@ text-transform: lowercase;
   
 	cursor: pointer;
 	color: #ff0;}
+
+.contenido{
+    
+    
+    width: 1100px;
+    height: auto;
+    margin-left: -250px;
+    font-size: 13px;
+    
+    
+}
+
+.comandos{
+    
+    color: brown;
+}
