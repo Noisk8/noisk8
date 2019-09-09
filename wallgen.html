@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<title>WallGen</title>
+<title>Generative image con wallgen</title>
 <head>
 
 <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
@@ -24,7 +24,7 @@
     <p></p>
 
     
-<p class="izquierda">Generative</p>
+<p class="izquierda">Generative Image con wallgen | python </p>
 
 
 <! MENU -->
@@ -62,7 +62,7 @@
 
 <div class="nes-container is-rounded is-dark">
   <center> 
-<img src="2012.png" alt="Smiley face" height="350" width="500">
+
 
 
 
@@ -74,43 +74,76 @@
     
     
     <div class="nes-container is-dark with-title">
-        <a href="acssii.html"> <p class="title"> Acssii art con mplayer </p> </a>
+        <a href="wallgen.html"> <p class="title"> Genera fondos de pantalla </p> </a>
         
-        <p>Visualización de vídeo en consola, formas no estándar de reproducción de vídeo. Mplayer + AAlib, libcaca, matrixview, strapon, bdsm.</p>
+        <p>Crear fondos de pantalla de poliéster sobre un degradado con colores aleatorios o utilizando colores personalizados.</p>
+         <p>Elige diferentes formas como hexágonos, cuadrados y diamantes aparte de los triángulos.</p>
+         <p>Aplicar polígonos sobre una imagen</p>
         <center>
-        
-        
-        <img src="img/asi.png" alt="Smiley face" height="350" width="500">
+       
             <p></p>
             
             <span class="nes-text is-success">Para Instalar en linux</span>
-            <p></p>
-           
-            
-            <span class="nes-text is-error"> sudo apt install mplayer</span>
-            <p></p>
-            
-            <p>El reproductor tiene una biblioteca AAlib que le permite mostrar los gráficos en forma de texto utilizando el renderizador ASCII.</p>
-            <p></p>
-            <span class="nes-text is-error">mplayer -vo aa video.mp4</span>
-            <p></p>
-            <p>En mi ordenador, por alguna razón, sólo se mostraba la mitad izquierda del vídeo, es decir, el vídeo estaba recortado en anchura. Este tipo de manipulación me ayudó:</p>
-            <p></p>
-            <span class="nes-text is-error">mplayer -vo aa -monitorpixelaspect 0.5 video.mp4</span>
             
             <p></p>
-              <span class="nes-text is-success">Visualización de vídeo en color con gráficos ASCII.</span>
+                <span class="nes-text is-warning">Requerimientos</span>
+            
+            <p></p>
+            
+            <span class="nes-text is-disabled">via pip</span>
+            <p></p>
+     
+            
+            <span class="nes-text is-error"> pip install -e git+https://github.com/SubhrajitPrusty/wallgen#egg=wallgen</span>
+            <p></p>
+            
+            <p>Clona el repositorio</p>
+            <p></p>
+            <span class="nes-text is-error">git clone https://github.com/SubhrajitPrusty/wallgen.git</span>
+            <p></p>
+            <span class="nes-text is-error">cd wallgen</span>
+            <p></p>
+            <p></p>
+            <span class="nes-text is-error">pip install --editable</span>
+            
+            <p></p>
+              <span class="nes-text is-success">Uso</span>
             <h3></h3>
-            <p>Libcaca es otra librería utilizada en mplayer para renderizar vídeo en gráficos ASCII. Se diferencia de AAlib en que soporta 16 colores y 256 pares de colores. Pero libcaca tiene algunas desventajas - no hay ajuste de brillo y contraste</p>
-            <span class="nes-text is-error">mplayer -vo caca video.mp4</span>
+            <p>Usage: wallgen [OPTIONS] COMMAND [ARGS]... </p>
+            <p>Opciones:</p>
+  <p> -h, --help Mostrar este mensaje y salir. </p>
+            
+            <p>
+            
+           <span class="nes-text is-primary">pic </span> Use una imagen en lugar de un degradado </p>
+            <p><span class="nes-text is-primary">poly </span> Genera una imagen HQ low poly usando un gradiente</p>
+            <p><span class="nes-text is-primary">shape </span> Genera una imagen de HQ de unas hermosas formas</p>
+  <p><span class="nes-text is-primary">slants </span> Genera líneas oblicuas de varios colores</p>
+            
+            
+             <p><span class="nes-text is-warning">Ejemplos</span></p>
+            
+            <p>Degradado aleatorio</p>
+            <span class="nes-text is-error">wallgen poly 2000</span>
+            <p></p>
+            <img src="img/demo1.png" height="300" width="250">
+            <p></p>
+            <p>Método NbyNDegradado</p>
+            <span class="nes-text is-error">wallgen poly 2000 --use-nn --points 5000</span>
+            <p></p>
+            <img src="img/nngradient.png" height="300" width="250">
+            <p></p>
+             <p>Color fijo/degradado</p>
+            <span class="nes-text is-error">wallgen poly 1000 --colors "#ff0000" --colors "#00ddff"</span>
+            <p></p>
+            <img src="img/poly.png" height="300" width="250">
+            <p></p>
+            <p>Remolino</p>
+            <span class="nes-text is-error">wallgen poly 2000 -c "#ff0000" -c "#00ddff" --points 2000 --swirl</span>
+            <p></p>
+            <img src="img/poly_swirl.png" height="300" width="250">
             <p></p>
             
-            <span class="nes-text is-success">Reproducción de vídeo estilo matrix </span>
-            <p></p>
-            <p>Matrixview es una biblioteca de reproductores que le permite ver vídeo en gráficos casi ASCII - en lugar de píxeles - la matriz. Desafortunadamente, no encontré ningún ajuste de contraste y brillo en él, y con los ajustes por defecto el vídeo resulta ser bastante pálido</p>
-            <p></p>
-            <span class="nes-text is-error">mplayer -vo matrixview video.mp4</span>
-        
         </center>
         
     </div>
