@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 
-    <title>Retrospective Sk8Board Soundtrack</title>
     
+    <title>Proyectos</title>
 <head>
 
 <link href="css/2.css" rel="stylesheet">
@@ -17,21 +17,21 @@
     
 </head>
 
-
 <body>
 
 
-  <a href="index.html" > <h1 class="titulo">Noisk8</h1></a>
-   
 
+  <a href="index.html" > <h1 class="titulo">Noisk8</h1></a>
+ 
     <p></p>
     
-<p class="izquierda">Retrospective SkateBoard Soundtrack</p>
+
 
 
 <! MENU -->
 
  <div class="izquierda">
+
 
 <a href="bio.html" ><button type="button" class="nes-btn is-success">bio</button> </a>
 <a href="livecoding.html" ><button type="button" class="nes-btn is-primary">Livecoding</button> </a>
@@ -48,59 +48,43 @@
 <!FIN DE MENU -->
 
 
-    <! CONTENIDO -->
-<p></p>
+    <p></p>
+<div class="izquierda">
+
+ 
+</div>
+    
+    
+<p> </p>
+    
+
+    <!CONTENIDO -->
     
     <div class="ambas">
-  <p class="nes-balloon from-left nes-pointer">
-  Retrospective SkateBoard Soundtrack es una serie de recopilas que contientienen soundtracks de videios de skate que marcaron nuestras vidas
-</p>
+        
+                       <p class="nes-balloon from-left nes-pointer">
+  Proyectos en los que participo o e participado  </p>
+    <center>
+ 
+    <div class="lists">
+      <ul class="nes-list is-disc">
+	<a href="http://www.elsuenodeunapension.ml" target="_blank"> <li>PIXELART</li></a>
+	 <a href="http://www.elsuenodeunapension.ml" target="_blank"> <li>El sueño de una pensiòn</li></a>
+   <a href="https://www.facebook.com/elsuichemedellin/" target="_blank"> <li>El Suiche</li></a>
+   <a href="https://www.facebook.com/Radio-volketa-Interestelar-1249905158451211/" target="_blank"> <li>Radio Volketa Interestelar</li></a>
+   <a href="https://noiskate.hotglue.me/?RuidoSudakaMap" target="_blank"> <li>Ruido sudaka map</li></a>
+   <a  href="https://noiskate.hotglue.me/?ToplapMedellin" target="_blank"><li>Toplap Medellín</li></a>
+     <a href="howto.html" target="_blank"> <li>How to </li></a>
+    <a href="https://noiskate.hotglue.me/?Zudaka+Kode" target="_blank">  <li>Zudaka Kode</li></a>
+      
+  </ul>
 </div>
-<div class="ambas">
-<div class="nes-container is-dark with-title">
-  <p class="title"> Vol 1 </p>
-<center> 
- <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fn01sk4t3%2Fretrospective-skateboard-soundtrack-vol-1%2F" frameborder="0" ></iframe>
-</center>
-</div>
+    </center>
+        </div>
+    
 
-<div class="nes-container is-rounded">
-    <p class="title"> Vol 3 </p>
-  <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fn01sk4t3%2Fretrospective-skateboard-soundtrack-vol-3%2F" frameborder="0" ></iframe>
-</div>
 
-<div class="nes-container is-rounded is-dark">
-    <p class="title"> 19-01 </p>
- <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fnoi-silva%2Fretrospective-sk8board-soundtrack-19-01%2F" frameborder="0" ></iframe>
-</div>
-    
-    <div class="nes-container is-rounded">
-        <p class="title">19-02 </p>
-  <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fnoi-silva%2Fretrosk8board-soundtrack-19-02%2F" frameborder="0" ></iframe>
-</div>
-    
-    
-<div class="nes-container is-rounded is-dark">
-    <p class="title"> 19-03 </p>
- <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fnoi-silva%2Fretrosk8soundtrack-19-03%2F" frameborder="0" ></iframe>
-</div>
-    
-    <div class="nes-container is-rounded">
-        <p class="title"> 19-04</p>
- <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fnoi-silva%2Fretrospective-skateboard-soundtrack-19-04%2F" frameborder="0" ></iframe>
-</div>
-    
-    <div class="nes-container is-rounded is-dark">
-    <p class="title"> 19-05 </p>
-  <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fnoi-silva%2Frsbs-19-05%2F" frameborder="0" ></iframe>
-</div>
-    
-</div>
-    
-    <! FIN DE CONTENIDO --> 
-    <p></p>
-    
-     <!REDES -->
+    <!REDES -->
     
     <div class="abajo">
     <div class="ambas ">
@@ -121,6 +105,7 @@
        <a href="https://twitter.com/noisk8" target="_blank"> <i class="nes-icon gmail is-large"></i> </a>
 
         <a href="https://www.twitch.tv/noisk8"> <i class="nes-icon twitch is-large "  target="_blank" ></i>  </a>
+
   
   <!-- youtube -->
        <a href="https://www.youtube.com/channel/UCymxCcnQzazSrHNw4fco6Cg?view_as=subscriber" target="_blank"><i class="nes-icon youtube is-large"></i> </a>
@@ -129,6 +114,7 @@
             </center>
         </div>
         </div>
+    
 </body>
 </html>
 
