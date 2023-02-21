@@ -6,7 +6,6 @@
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=noisk8&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
 <br/>
 <br/>
