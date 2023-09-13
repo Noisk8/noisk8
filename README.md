@@ -23,19 +23,30 @@
  <h3>💻 Software and Tools</h3>
 
   <p>
-    <a><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> </a>
-     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
+<a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit"> </a>
+<a> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> </a>
   </p>
   
   <div align="center">    
