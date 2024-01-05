@@ -55,6 +55,4 @@
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=noisk8&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div> 
 
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/noisk8)
-
 
