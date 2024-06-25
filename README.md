@@ -26,7 +26,8 @@ Me encanta trabajar con Linux y siempre estoy explorando cosas nuevas en el vast
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noisk8&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noisk8&theme=gruvbox" width="100%" />
+
   <br/>
   <br/>
     <br/>
@@ -36,16 +37,20 @@ Me encanta trabajar con Linux y siempre estoy explorando cosas nuevas en el vast
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noisk8&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noisk8&theme=2077" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noisk8&theme=gruvbox" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noisk8&theme=gruvbox" width="45%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noisk8&theme=2077" style="height: 300px"  />                                 </div>       
+<div >    
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noisk8&theme=gruvbox&utcOffset=8" width="45% "  />   
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noisk8&theme=gruvbox" width="45%" />
+</div>       
 
-                                                                                                               
- <h3>💻 Software and Tools</h3>
+<br />
+     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+                                                                                                          
+ <h3> Software and Tools</h3>
 
   <p>
 <a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
@@ -77,8 +82,15 @@ Me encanta trabajar con Linux y siempre estoy explorando cosas nuevas en el vast
 <a> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> </a>
   </p>
 
+ ![]( ) 
+ 
+![]()
+![]() 
+![]()
+![]()
 
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=noisk8&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div> 
+
 
 
