@@ -51,7 +51,33 @@
 <a> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> </a>
 <a> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> </a>
   </p>
+
+  <div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
   
+  #### 🖥️ Nyn Node operator
+  
+
+  
+  </td>
+  <td valign="top" width="50%">
+  
+  #### 🐧 Linux Enthusiast
+  
+  I love working with Linux and Im always exploring new things in the vast open-source world.
+  
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+  ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
+  
+  </td>
+  </tr>
+  </table>
+</div>
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=noisk8&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div> 
 
