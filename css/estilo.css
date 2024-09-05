@@ -37,24 +37,8 @@
 
 @keyframes slide {
 	0% { transform: translateX(0); }
-	10% { transform: translateX(0); }
-
-	15% { transform: translateX(-100%); }
-	30% { transform: translateX(-100%); }
-
-	35% { transform: translateX(-200%); }
-	50% { transform: translateX(-200%); }
-
-	55% { transform: translateX(-300%); }
-	70% { transform: translateX(-300%); }
-
-	75% { transform: translateX(-400%); }
-	90% { transform: translateX(-400%); }
-
-	95% { transform: translateX(-500%); }
-	100% { transform: translateX(-500%); }
+	100% { transform: translateX(-100%); } /* Ajusta este valor según el número de slides */
 }
-
 * { box-sizing: border-box; }
 
 html { scroll-behavior: smooth; }
@@ -79,15 +63,13 @@ body {
 	position: relative;
 	display: flex;
 	overflow: hidden;
+  width: 100%;
 }
 
 .slide {
-	width: 100vw;
+	min-width: 100%;
 	flex-shrink: 0;
-	animation-name: slide;
-	animation-duration: 20s;
-	animation-iteration-count: infinite;
-	animation-timing-function: linear;
+	animation: slide 15s linear infinite;
 }
 
 .slides:hover .slide {
