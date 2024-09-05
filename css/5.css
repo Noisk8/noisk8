@@ -193,7 +193,9 @@ img {
   vertical-align: middle;
   border-style: none;
 }
-
+.centrado {
+  text-align: center;
+}
 svg {
   overflow: hidden;
   vertical-align: middle;
